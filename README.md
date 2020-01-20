@@ -1,2 +1,2 @@
 # FurryGame
-Pacman type game
+Pacman type game - task in CodersLab course.
