@@ -12,3 +12,5 @@ At any time during the game, the player can see how many coins he has already co
 
 Exercise in CodersLab bootcamp.
 
+It is possible to check the view on: https://alicjakardynal.github.io/FurryGame/
+
